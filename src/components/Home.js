@@ -4,8 +4,9 @@ function Home() {
   return (
     <div id="home">
       <h1>
-        {username} is a Web Developer from {city}
+        Dennis is a Web Developer from NewYork
       </h1>
     </div>
   );
 }
+export default Home
